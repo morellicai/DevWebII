@@ -1,0 +1,1 @@
+lista_palavras = ["Cachorro", "gato", "pássaro"]
